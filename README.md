@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=Alimovriq&style=flat-square&color=blue" alt="Алимов Ринат"/>
+<h5>
+  Hi, my name is Alimov Rinat and I'm Python developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h5>
  </div>
 
 
