@@ -13,12 +13,27 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Alimovriq&style=flat-square&color=blue" alt="Алимов Ринат"/>
 <h4>
-  Hi, my name is Alimov Rinat and I'm Python developer
+  You are welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
  </div>
+ 
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
 
+### :man_technologist: About Me :
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I've graduated the Python backend Developer course for building web applications.
+
+- :seedling: Exploring Python.
+
+- :zap: In my free time, I solve problems on CheckiO and read tech articles.
+
+- :mailbox: How to reach me: r-alimov@yandex.ru
 <!--
 **Alimovriq/Alimovriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
