@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Alimovriq&style=flat-square&color=blue" alt="Алимов Ринат"/>
 <h4>
-  You are welcome!
+  Добро пожаловать на мою страницу!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
  </div>
@@ -24,20 +24,20 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне:
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I've graduated the Python backend Developer course for building web applications.
+- :telescope: Я закончил курс Python-разработчик по созданию веб-приложений от Яндекс.Практикум. 
 
-- :seedling: Exploring Python.
+- :seedling: Прокачиваю скиллы в Python.
 
-- :zap: In my free time, I solve problems on CheckiO and read tech articles.
+- :zap: В свободное время я читаю книгу про Python от Марка Лутца, решаю задачки на chekiO.
 
-- :mailbox: How to reach me: r-alimov@yandex.ru
+- :mailbox: Для связи: r-alimov@yandex.ru.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -52,6 +52,13 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: Статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alimovriq&theme=sunset-gradient&hide_border=true&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alimovriq&layout=compact&theme=vision-friendly-dark&locale=ru&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Alimovriq/Alimovriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,6 +73,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
