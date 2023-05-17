@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из г. Москва.
 
 - :telescope: Я закончил курс Python-разработчик по созданию веб-приложений от Яндекс.Практикум. 
 
