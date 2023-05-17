@@ -56,7 +56,7 @@
 
 ### :fire: Статистика :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alimovriq&theme=sunset-gradient&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alimovriq&theme=vision-friendly-dark&hide_border=false&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alimovriq&layout=compact&theme=vision-friendly-dark&locale=ru&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <!--
