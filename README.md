@@ -20,9 +20,9 @@
 
 ## 🔧 Навыки
 - **Язык программирования**: Python
-- **Фреймворки**: Django, Django Rest Framework
+- **Фреймворки / Библиотеки**: Django, Django Rest Framework, Selenium, BeautifulSoup4, Requests
 - **Базы данных**: PostgreSQL, SQLite
-- **Инструменты разработки**: Git, Docker, nginx, gunicorn, CI/CD, Selenium, BeautifulSoup4, Postman
+- **Инструменты разработки**: Git, Docker, nginx, gunicorn, CI/CD, Postman
 
 ## 🌟 Мои проекты
 - [**YaMDb**](https://github.com/Alimovriq/api_yamdb): Проект YaMDb собирает отзывы пользователей на произведения.
