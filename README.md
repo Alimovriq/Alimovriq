@@ -20,7 +20,7 @@
 
 ## 🔧 Навыки
 - **Язык программирования**: Python
-- **Фреймворки**: Django, Django Rest Framework, Selenium
+- **Фреймворки**: Django, Django Rest Framework
 - **Базы данных**: PostgreSQL, SQLite
 - **Инструменты разработки**: Git, Docker, nginx, gunicorn, CI/CD, Selenium, BeautifulSoup4, Postman
 
