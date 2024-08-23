@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/alimov-rinat/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://hh.ru/resume/e0c7bd9fff0bcd036a0039ed1f77315a4f6f49">
+  <a href="https://hh.ru/resume/047326c1ff0d94549d0039ed1f7a6638687471">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
   <a href="https://career.habr.com/alimovriq">
