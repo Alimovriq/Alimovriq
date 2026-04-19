@@ -20,8 +20,8 @@
 
 ## 🔧 Навыки
 - **Язык программирования**: Python
-- **Фреймворки / Библиотеки**: Django, Django Rest Framework, Selenium, BeautifulSoup4, Requests
-- **Базы данных**: PostgreSQL, SQLite
+- **Фреймворки / Библиотеки**: Django, Django Rest Framework, Selenium, BeautifulSoup4, Requests, Openpyxl
+- **Базы данных**: Orcle, PostgreSQL, SQLite
 - **Инструменты разработки**: Git, Docker, nginx, gunicorn, CI/CD, Postman
 
 ## 🌟 Мои проекты
@@ -31,8 +31,8 @@
 
 ## :man_technologist: Учёба:
 - :telescope: Курс Python-разработчик по созданию веб-приложений от Яндекс.Практикум. 
-- :seedling: Два курса на Stepik "Поколение Python": курс для продвинутых", "Поколение Python": курс для начинающих".
-- 💻  Сейчас прохожу "Python для профессионалов", "WEB Парсинг на Python", "Интерактивный тренажер по SQL".
+- :seedling: Курсы Stepik:  Поколение Python: ООП (Тимур Гуев), Асинхронный Python (П.А. Хошев), Web парсинг на Python (П.А. Хошев), Поколение Python: Python для профессионалов (Тимур Гуев), Поколение Python: Python для продвинутых (Тимур Гуев), Поколение Python: Python для начинающих (Тимур Гуев).
+- 💻  Сейчас прохожу Поколение Python: SQL Базы данных (Тимур Гуев) .
 - :zap: В свободное время я занимаюсь своими пет-проектами. Интересуюсь API DRF, Web парсингом, ТГ ботами.  
 
 ---
