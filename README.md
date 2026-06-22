@@ -20,8 +20,8 @@
 
 ## 🔧 Навыки
 - **Язык программирования**: Python
-- **Фреймворки / Библиотеки**: Django, Django Rest Framework, Selenium, BeautifulSoup4, Requests, Openpyxl
-- **Базы данных**: Orcle, PostgreSQL, SQLite
+- **Фреймворки / Библиотеки**: FastApi, Django, Django Rest Framework, SQLAlchemy, Selenium, BeautifulSoup4, Requests, Openpyxl
+- **Базы данных**: Oracle, PostgreSQL, SQLite
 - **Инструменты разработки**: Git, Docker, nginx, gunicorn, CI/CD, Postman
 
 ## 🌟 Мои проекты
